@@ -1,0 +1,44 @@
+# Xcode
+#
+# User-specific files
+.idea/
+.xcuserstate
+*.xcuserdatad
+
+# Build results
+build/
+DerivedData/
+
+# SwiftPM
+.swiftpm/
+.package/
+Packages/
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# Xcode configuration
+*.xcodeproj/project.xcworkspace/
+*.xcworkspace/
+
+# xcuserdata
+*.xcuserstate
+
+# Swift Package Manager
+.swiftpm/
+
+# Temporary files
+*.swp
+*.lock
+*.log
+
+# User-specific settings
+*.moved-aside
+*.DS_Store
+*.xcuserstate
+
+# App specific files (can be added to ignore certain files)
+*.env
