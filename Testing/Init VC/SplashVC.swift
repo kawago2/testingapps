@@ -19,7 +19,7 @@ class SplashVC: UIViewController {
     }
     
     private func setupUI() {
-        view.backgroundColor = .white
+        view.backgroundColor = AppColor.mainColor
         
         animationView = LottieAnimationView(name: "helo")
         animationView.contentMode = .scaleAspectFit
